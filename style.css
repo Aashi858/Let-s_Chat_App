@@ -33,3 +33,11 @@ body{
     margin-top: 10px;
     margin-left: 800px;
 }
+#output{
+    background-color: paleturquoise;
+    padding-top: 10px;
+    color: black;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    font-size: medium;
+}
