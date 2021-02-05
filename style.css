@@ -41,3 +41,11 @@ body{
     border-top-left-radius: 15px;
     font-size: medium;
 }
+#send{
+    width: 50%;
+}
+#msg{
+    width: 80%;
+    border-radius: 10px;
+    height: 35px;
+}
