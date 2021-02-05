@@ -35,10 +35,10 @@ function addRoomName(){
     purpose : "adding room name"
   });
   localStorage.setItem("Room_Name", room_name);
-  window.location = "kwitter_page.html";
+  window.location = "chat_page.html";
 }
 function redirectToNextRoom(name){
   console.log(name);
   localStorage.setItem("Room_Name",name);
-  window.location = "kwitter_page.html";
+  window.location = "chat_page.html";
 }
